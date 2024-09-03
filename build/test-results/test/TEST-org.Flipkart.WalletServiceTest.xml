@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.Flipkart.WalletServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-09-03T12:30:14" hostname="FK1089-218395L" time="0.004">
+  <properties/>
+  <testcase name="testUpdateWalletSuccess()" classname="org.Flipkart.WalletServiceTest" time="0.0"/>
+  <testcase name="testAddWalletSuccess()" classname="org.Flipkart.WalletServiceTest" time="0.001"/>
+  <testcase name="testUpdateWalletFailure()" classname="org.Flipkart.WalletServiceTest" time="0.001"/>
+  <testcase name="testAddWalletFailure()" classname="org.Flipkart.WalletServiceTest" time="0.0"/>
+  <testcase name="testGetBalanceByIdSuccess()" classname="org.Flipkart.WalletServiceTest" time="0.001"/>
+  <testcase name="testGetWalletByUserIdSuccess()" classname="org.Flipkart.WalletServiceTest" time="0.0"/>
+  <testcase name="testGetBalanceByIdFailure()" classname="org.Flipkart.WalletServiceTest" time="0.001"/>
+  <testcase name="testGetWalletByUserIdFailure()" classname="org.Flipkart.WalletServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
