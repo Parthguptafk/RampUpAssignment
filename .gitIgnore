@@ -1,0 +1,14 @@
+.gradle/
+*.iml
+*.ipr
+*.iws
+build
+.sonar
+.idea/
+out/
+*.pyc
+.DS_Store
+.gradletasknamecache
+gradle-app.setting
+debian/
+dockerPackage/
